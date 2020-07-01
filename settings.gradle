@@ -1,0 +1,2 @@
+include ':app', ':waprogressview'
+rootProject.name='WAVoiceProgressView'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_voice_progress_start_color">#a372bc</color>
+    <color name="default_voice_progress_end_color">#cda6d9</color>
+    <color name="default_voice_progress_background_color">#308E8E8F</color>
+
+    <integer-array name="default_voice_progress_gradient_color">
+        <item>@color/default_voice_progress_end_color</item>
+        <item>@color/default_voice_progress_start_color</item>
+        <item>@color/default_voice_progress_end_color</item>
+        <item>@color/default_voice_progress_end_color</item>
+    </integer-array>
+</resources>

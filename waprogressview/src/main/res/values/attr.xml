@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WARecordVoiceProgressView">
+        <attr name="default_voice_progress_max" format="reference" />
+        <attr name="default_voice_progress_background_color" format="reference" />
+        <attr name="default_voice_progress_start_color" format="reference" />
+        <attr name="default_voice_progress_end_color" format="reference" />
+        <attr name="default_voice_progress_gradient_color" format="reference" />
+    </declare-styleable>
+</resources>
